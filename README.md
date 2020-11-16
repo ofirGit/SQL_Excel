@@ -6,7 +6,7 @@ Analys 'Sakila' sample database
 - MySQL
 - Excel
 
-**Analys**
+**Analysis**
 
 Sakila is a company for rent movies with two stores and global customer
 KPIs:
@@ -50,10 +50,10 @@ The most popular actors are .
 
 They are indeed play in 2 or 3 populars moovies.
 
-Who are the actors that paly in sports movies and action movies?
 
 ***Most popular caategory by country***
-The most popular category is Sports. In Brazil, sports movies are watched the most
+
+The most popular category is Sports. In Mexico and Netherlands, sports movies are watched the most
 I recommend the company to adjust thier movies by country or area in order to increase its customers in each country. 
 i.e. more action movies in India, more sports movies in Brazil and more
 
