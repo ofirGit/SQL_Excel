@@ -31,6 +31,7 @@ I recommend the company to limit the number of rental days to 5 days so that the
 
 
 ***What is the popular movie***
+
 The most popular movie is 103 by 34 numbers of rental. His category is Travel.
 Does travel is the most popular category? No. I found that the most popular category is Sports with 1179 times for rental.
 
