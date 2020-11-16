@@ -23,9 +23,14 @@ It is likely that anyone who rents a movie will not rent it the next day either.
 
 ***What is the average days of rent movie***
 
-The avg is 5.5 days for rent. I check correlation between number of days and price. I found that the r=0.5 there is a middle positive connection between two params. 
-25% of the price is explained by the number of rental days but 75% is explained by other factors.
+![](https://github.com/ofirGit/SQL_Excel/blob/main/Chart2.png)
 
+The avg is 5.5 days for rent. I checked correlation between number of days and price.
+
+![](https://github.com/ofirGit/SQL_Excel/blob/main/Chart2.1.png)
+
+I found that the r=0.5 there is a middle positive connection between two params. 
+25% of the price is explained by the number of rental days but 75% is explained by other factors.
 
 I recommend the company to limit the number of rental days to 5 days so that they can increase the number of rental on other days. In order to increase the income they should charge a higher price for rentals exceeding 5 days. In additiion to encouraging customers to make rentals on the weak days for example by specials
 
@@ -35,9 +40,15 @@ I recommend the company to limit the number of rental days to 5 days so that the
 The most popular movie is 103 by 34 numbers of rental. His category is Travel.
 Does travel is the most popular category? No. I found that the most popular category is Sports with 1179 times for rental.
 
+![](https://github.com/ofirGit/SQL_Excel/blob/main/Chart6.png)
+
 I checked if there is a conection between those two question. I checked who are the actores play in the most popular moovies? perhaps
 the customers choose thier moovie by the actors.
-The most popular actors are . They are indeed play in 2 or 3 populars moovies.
+The most popular actors are . 
+
+![](https://github.com/ofirGit/SQL_Excel/blob/main/Chart3.png)
+
+They are indeed play in 2 or 3 populars moovies.
 
 Who are the actors that paly in sports movies and action movies?
 
