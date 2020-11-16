@@ -16,7 +16,7 @@ KPIs:
 
 ***What is the most popular day of rental***
 
-![]()
+![](https://github.com/ofirGit/SQL_Excel/blob/main/Chart1.png)
 
 Most of the people rent movie on Tuesday. About 30% rentals on Tuesday and Sunday.
 It is likely that anyone who rents a movie will not rent it the next day either. Should check what the average sequel to renting a movie is
