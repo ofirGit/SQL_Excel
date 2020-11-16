@@ -7,6 +7,7 @@ Analys 'Sakila' sample database
 - Excel
 
 **Analys**
+
 Sakila is a company for rent movies with two stores and global customer
 KPIs:
 - Price rent per day
@@ -15,10 +16,13 @@ KPIs:
 
 ***What is the most popular day of rental***
 
-most of the people rent movie on Tuesday. About 30% rentals on Tuesday and Sunday.
+![]()
+
+Most of the people rent movie on Tuesday. About 30% rentals on Tuesday and Sunday.
 It is likely that anyone who rents a movie will not rent it the next day either. Should check what the average sequel to renting a movie is
 
 ***What is the average days of rent movie***
+
 The avg is 5.5 days for rent. I check correlation between number of days and price. I found that the r=0.5 there is a middle positive connection between two params. 
 25% of the price is explained by the number of rental days but 75% is explained by other factors.
 
