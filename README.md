@@ -8,7 +8,8 @@ Analys 'Sakila' sample database
 
 **Analysis**
 
-Sakila is a company for rent movies with two stores and global customer
+Sakila is a company for rent movies with two stores and global customers
+
 KPIs:
 - Price rent per day
 - Growth number of customers
